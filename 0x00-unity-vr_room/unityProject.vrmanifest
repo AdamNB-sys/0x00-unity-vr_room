@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.0x00unityvr_room.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\EV-H1\\Documents\\repos\\0x00-unity-vr_room\\0x00-unity-vr_room\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "0x00-unity-vr_room [Testing]"
+        }
+      }
+    }
+  ]
+}
